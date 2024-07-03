@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Cursando engenharia de software e iniciando meus estudos em programação.<br>🌱 Amo a tecnologia, as evoluções constantes me fascinam. <br>💬 Tenho 19 anos e sou pai de uma linda bebê.<br>
+🔭 Engenharia de software, primeiro semestre - iniciando meus estudos em programação.<br>🌱 Amo a tecnologia, as evoluções constantes me fascinam. <br>💬 Tenho 19 anos e sou pai de uma linda bebê.<br>
 
 
 ## 🌐 Socials:
