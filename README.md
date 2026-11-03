@@ -7,7 +7,6 @@ align="center">⚡ Manoel David</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manoel-david-bba8b52b3"><img src="https://img.shields.io/badge/LinkedIn-Vamos_conversar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/manel_06x"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
@@ -23,7 +22,7 @@ Conquistar minha primeira oportunidade como **desenvolvedor Java** (estágio ou 
 - 🧠 Lógica de programação: condicionais, entrada de dados, formatação e regras de negócio
 - 🌐 Base em **HTML, CSS e JavaScript** para web
 - 🔧 Fluxo com **Git/GitHub** e **IntelliJ IDEA**
-- 📈 Aprendizado acelerado: 4º semestre de Engenharia de Software + cursos práticos (Alura)
+- 📈 Aprendizado acelerado: 4º semestre de Engenharia de Software + cursos práticos (Alura e Dio)
 
 ## 🛠️ Stack
 
@@ -60,17 +59,6 @@ Conquistar minha primeira oportunidade como **desenvolvedor Java** (estágio ou 
 - [ ] Banco de dados (SQL)
 - [ ] Testes automatizados
 - [ ] Projeto completo de ponta a ponta
-
-## 📊 Números
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManoelDavidDev&theme=dracula&hide_border=false&include_all_commits=true&count_private=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelDavidDev&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManoelDavidDev&theme=dracula&hide_border=false"/>
-</p>
 
 ---
 
