@@ -47,10 +47,16 @@ Conquistar minha primeira oportunidade como **desenvolvedor Java** (estágio ou 
 | Projeto | Stack | O que entrega |
 |---|---|---|
 | [⭐ MDPDV](https://github.com/ManoelDavidDev/MDPDV) | TypeScript · Node.js · SQLite · Tailwind | Meu projeto principal: PDV e gestão comercial com Clean Architecture, caixa, estoque, motor de promoções, emissão fiscal NFC-e e auditoria. Criado com Google AI Studio | Meu projeto principal: sistema de PDV (ponto de venda) |
-| [🎬 ComboCinema](https://github.com/ManoelDavidDev/ComboCinema) | Java | Simulador de streaming interativo: `Scanner`, regras condicionais de plano e `DecimalFormat` |
-| [🏆 DesafioAlura](https://github.com/ManoelDavidDev/DesafioAlura) | Java | Desafio prático do curso de Java e OO da Alura |
-| [🧮 CalculadoradeNotas](https://github.com/ManoelDavidDev/CalculadoradeNotas) | Java | Cálculo de notas com regras de aprovação |
-| [🎲 jogoDaAdivinhacao](https://github.com/ManoelDavidDev/jogoDaAdivinhacao) | Java | Jogo de adivinhação com lógica e entrada do usuário |
+## 🧩 Desafios de lógica de programação
+
+Estes repositórios são **desafios de lógica de programação** em Java. Neles eu pratico entrada de dados, condicionais, cálculos e formatação de resultados, a base para construir sistemas maiores.
+
+| Desafio | Stack | O que treina |
+|---|---|---|
+| [🧮 CalculadoradeNotas](https://github.com/ManoelDavidDev/CalculadoradeNotas) | Java | Média dos 4 bimestres e resultado de aprovado ou reprovado |
+| [🎬 ComboCinema](https://github.com/ManoelDavidDev/ComboCinema) | Java | Regras condicionais de plano, `Scanner` e `DecimalFormat` |
+| [🎲 jogoDaAdivinhacao](https://github.com/ManoelDavidDev/jogoDaAdivinhacao) | Java | Laços, comparações e entrada do usuário |
+| [🏆 DesafioAlura](https://github.com/ManoelDavidDev/DesafioAlura) | Java | Exercício prático do curso de Java e OO da Alura |
 
 
 ## 📈 Em evolução
