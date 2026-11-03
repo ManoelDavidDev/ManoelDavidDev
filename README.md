@@ -1,8 +1,8 @@
-<h1 align="center">⚡ Manoel David</h1>
+align="center">⚡ Manoel David</h1>
 <h3 align="center">Engenharia de Software · 4º semestre · Java Developer em formação</h3>
 
 <p align="center">
-  <b>Construo código todos os dias. Evoluo mais rápido a cada commit. Pronto para entrar no jogo.</b>
+  <b>O coração do homem planeja o seu caminho, mas o Senhor lhe dirige os passos...</b>
 </p>
 
 <p align="center">
@@ -16,7 +16,6 @@
 
 Conquistar minha primeira oportunidade como **desenvolvedor Java** (estágio ou júnior) e entregar resultado desde o primeiro dia.
 
-Sou pai aos 19 anos. Isso me move: disciplina, foco e pressa de crescer na carreira. 🚀
 
 ## 🔥 O que eu trago
 
@@ -53,6 +52,7 @@ Sou pai aos 19 anos. Isso me move: disciplina, foco e pressa de crescer na carre
 | [🏆 DesafioAlura](https://github.com/ManoelDavidDev/DesafioAlura) | Java | Desafio prático do curso de Java e OO da Alura |
 | [🧮 CalculadoradeNotas](https://github.com/ManoelDavidDev/CalculadoradeNotas) | Java | Cálculo de notas com regras de aprovação |
 | [🎲 jogoDaAdivinhacao](https://github.com/ManoelDavidDev/jogoDaAdivinhacao) | Java | Jogo de adivinhação com lógica e entrada do usuário |
+| [📄 Web-Curriculo](https://github.com/ManoelDavidDev/Web-Curriculo) | HTML | Currículo online em página web |
 
 ## 📈 Em evolução
 
@@ -74,4 +74,15 @@ Sou pai aos 19 anos. Isso me move: disciplina, foco e pressa de crescer na carre
 
 ---
 
-<p align="center"><b>Aberto a oportunidades. Chama no LinkedIn. 🤝</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IA-Inteligência_Artificial-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google_AI_Studio-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+<p align="center"><b>Engenheiro de software em formação, sempre à frente dos novos métodos e modelos da tecnologia. Aprender, aplicar e evoluir: é assim que eu jogo. 🚀</b></p>
