@@ -51,7 +51,7 @@ Conquistar minha primeira oportunidade como **desenvolvedor Java** (estágio ou 
 | [🏆 DesafioAlura](https://github.com/ManoelDavidDev/DesafioAlura) | Java | Desafio prático do curso de Java e OO da Alura |
 | [🧮 CalculadoradeNotas](https://github.com/ManoelDavidDev/CalculadoradeNotas) | Java | Cálculo de notas com regras de aprovação |
 | [🎲 jogoDaAdivinhacao](https://github.com/ManoelDavidDev/jogoDaAdivinhacao) | Java | Jogo de adivinhação com lógica e entrada do usuário |
-| [📄 Web-Curriculo](https://github.com/ManoelDavidDev/Web-Curriculo) | HTML | Currículo online em página web |
+
 
 ## 📈 Em evolução
 
