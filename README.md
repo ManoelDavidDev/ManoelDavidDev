@@ -46,7 +46,7 @@ Conquistar minha primeira oportunidade como **desenvolvedor Java** (estágio ou 
 
 | Projeto | Stack | O que entrega |
 |---|---|---|
-| [⭐ MDPDV](https://github.com/ManoelDavidDev/MDPDV) | — | Meu projeto principal: sistema de PDV (ponto de venda) |
+| [⭐ MDPDV](https://github.com/ManoelDavidDev/MDPDV) | TypeScript · Node.js · SQLite · Tailwind | Meu projeto principal: PDV e gestão comercial com Clean Architecture, caixa, estoque, motor de promoções, emissão fiscal NFC-e e auditoria. Criado com Google AI Studio | Meu projeto principal: sistema de PDV (ponto de venda) |
 | [🎬 ComboCinema](https://github.com/ManoelDavidDev/ComboCinema) | Java | Simulador de streaming interativo: `Scanner`, regras condicionais de plano e `DecimalFormat` |
 | [🏆 DesafioAlura](https://github.com/ManoelDavidDev/DesafioAlura) | Java | Desafio prático do curso de Java e OO da Alura |
 | [🧮 CalculadoradeNotas](https://github.com/ManoelDavidDev/CalculadoradeNotas) | Java | Cálculo de notas com regras de aprovação |
